@@ -1,2 +1,2 @@
-# clonflit-Github
+REMOTE
 nous allons apprendre à gérer un conflit
